@@ -10,10 +10,10 @@
  [title](https://lumigv.github.io/iaw_202324/unidad1/taller2.html)
  ![imagen](https://ejemplo.com/imagen.jpg)
 
-| Column 1 | Column 2 | Column 3 |
+| Columna 1 | Columna 2 | Columna 3 |
 |----------|----------|----------|
-| Row 1    | Cell 2   | Cell 3   |
-| Row 2    | Cell 5   | Cell 6   |
-| Row 3    | Cell 8   | Cell 9   |
+| fila 1    | celda 2   | celda 3   |
+| fila 2    | celda 5   | celda 6   |
+| fila 3    | celda 8   | celda 9   |
 
 
