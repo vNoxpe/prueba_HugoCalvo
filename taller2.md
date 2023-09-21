@@ -8,8 +8,12 @@
 - Second item
 - Third item
  [title](https://lumigv.github.io/iaw_202324/unidad1/taller2.html)
- ![imagen](https://ejemplo.com/imagen.jpg))https://ejemplo.com/imagen.jpg)
+ ![imagen](https://ejemplo.com/imagen.jpg)
+
 | Column 1 | Column 2 | Column 3 |
 |----------|----------|----------|
-| Row 1    | Cell 2   |👉 &#124; |
+| Row 1    | Cell 2   | Cell 3   |
+| Row 2    | Cell 5   | Cell 6   |
+| Row 3    | Cell 8   | Cell 9   |
+
 
