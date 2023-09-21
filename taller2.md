@@ -7,8 +7,9 @@
 - First item
 - Second item
 - Third item
- [title](https://lumigv.github.io/iaw_202324/unidad1/taller2.html)
- ![imagen](https://ejemplo.com/imagen.jpg)
+   [title](https://lumigv.github.io/iaw_202324/unidad1/taller2.html)
+
+![imagen](https://ejemplo.com/imagen.jpg)
 
 | Columna 1 | Columna 2 | Columna 3 |
 |----------|----------|----------|
