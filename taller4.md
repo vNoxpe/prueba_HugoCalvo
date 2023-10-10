@@ -1,5 +1,8 @@
 # Taller4.md
 1. hacemos un fork
+
+![imagen](img/Captura14.PNG)
+
 2. hacemos el git clone 
 
 ![imagen](img/Captura5.PNG)
