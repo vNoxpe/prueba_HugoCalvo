@@ -1,6 +1,8 @@
 # taller2.md
 ## subtitulo
-**por ejemplo esto está escrito en código** *por ejemplo esto está escrito en código *
+**por ejemplo esto está escrito en código** 
+
+*por ejemplo esto está escrito en código*
 1. First item
 2. Second item
 3. Third item
